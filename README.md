@@ -1,6 +1,6 @@
 # SEO Content Quality & Duplicate Detector
 
-A **Streamlit-based web application** to analyze webpages for **content quality**, **readability**, and **duplicate content detection**. This tool uses the Random Forest model to classify web content as **Low**, **Medium**, or **High** quality, and also identifies similar pages using TF-IDF and cosine similarity.
+A **Streamlit-based web application** to analyze webpages for **content quality**, **readability**, and **duplicate content detection**. This tool uses the **Random Forest** model to classify web content as **Low**, **Medium**, or **High** quality, and also identifies similar pages using TF-IDF and cosine similarity.
 
 ---
 
