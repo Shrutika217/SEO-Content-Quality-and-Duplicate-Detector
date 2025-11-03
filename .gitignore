@@ -1,0 +1,2 @@
+# ignore local model artifacts
+/streamlit_app/models/*.pkl
